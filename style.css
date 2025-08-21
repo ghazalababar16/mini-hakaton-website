@@ -1,0 +1,53 @@
+.btn {
+    background-color: #1090CB !important;
+    color: white;
+}
+
+.blue {
+    color: #1090CB !important;
+}
+
+.btn-view {
+    background-color: white;
+    color: #1090CB;
+    outline: none !important;
+    border-radius: 5px;
+
+}
+
+.own {
+    justify-content: center;
+    text-align: center;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+.own h1 {
+    margin-bottom: 20px;
+}
+
+img .custom {
+    width: 700px !important;
+    height: 600px !important;
+}
+
+.card-one {
+    display: flex;
+    justify-content: center;
+    background-color: #F4F4F4;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+   
+}
+
+.card-two {
+    display: flex;
+    justify-content: center;
+    background-color: #1090CB;
+    border-radius: 10px;
+    padding: 20px 20px;
+    width: 500px;
+    height: 400px;
+    
+}
